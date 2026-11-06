@@ -1,0 +1,6 @@
+﻿.venv/
+.env
+**/.env
+__pycache__/
+ch6_chat_jsonDB/
+ch6-2_chat_mongoDB/
